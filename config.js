@@ -1,7 +1,7 @@
 export const CONFIG = {
-  CLIENT_ID: "SIDDHARTH",
-  PIXEL_ID: "2062623597778821",
-  BACKUP_LINK: "https://t.me/+_ty4TozfGgJkOTQ1",
+  CLIENT_ID: "SIDBHAI2",
+  PIXEL_ID: "1615496496397020",
+  BACKUP_LINK: "https://t.me/+XxykLiky-WplMTBl",
   HELPER_URL: "https://app.kapitrack.site",
 
   CHANNEL_NAME: "SIDDHARTH",
